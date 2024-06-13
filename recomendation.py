@@ -184,6 +184,8 @@ link.
 
 dan seterusnya untuk yang kedua sama! tidak perlu ada kesimpulan! dan buat formatnya terlihat rapih dan profesional!
 
+Beri tahu user jika ingin tau lebih terkait 2 projek di atas bisa lanjut chat, dan jika ingin mendapat rekomendasi lainnya bisa klik `new chat` untuk memulai dari awal.
+
 Dan di akhir tolong berikan link berikut {link_full_predict[predict]} untuk memberi tahu jika ingin melihat projek relevan lainnya bisa mengakses link tersebut.
 """)
                 

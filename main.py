@@ -5,8 +5,13 @@ st.title("SetelahLulus Chatbot")
 
 # Sidebar
 with st.sidebar:
+
+    col1, col2 = st.columns(2)
+    with col1:
+        st.image("logo.png", width=50 )
     
-    new_chat_button = st.button("New Chat", type="primary")
+    with col2:
+        new_chat_button = st.button("New Chat", type="primary")
     
     # it will to reset session
     if new_chat_button:
@@ -22,6 +27,13 @@ if __name__ == "__main__":
         flex-direction: row-reverse;
         text-align: right;
     }
+    
+
+    .st-emotion-cache-keje6w {
+        display: flex;
+        align-items: center;
+    }
+
 </style>
 """,
     unsafe_allow_html=True,
