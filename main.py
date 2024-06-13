@@ -1,7 +1,7 @@
 import streamlit as st
 from recomendation import recommendation
 
-st.title("SetelahLulus Chatbot")
+st.title("KerjaKerja Chatbot")
 
 # Sidebar
 with st.sidebar:
